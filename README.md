@@ -37,6 +37,6 @@ To get started with the Tic Tac Toe Web Application, follow these steps:
 
 ## Acknowledgments
 
-- Special thanks to [Prodigy Infotech](https://www.prodigyinfotech.com/) for providing the opportunity to work on this project.
+- Special thanks to [Prodigy Infotech](https://prodigyinfotech.dev/) for providing the opportunity to work on this project.
 
 - Inspired by the classic Tic Tac Toe game and various online resources for web development.
